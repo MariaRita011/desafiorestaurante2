@@ -42,3 +42,26 @@ margin: 15px;
     text-align: justify;
     margin-top: 75px;
 }
+
+
+.art4{
+    display: flex;
+}
+.img_4{
+    background-color: white;
+    max-width: 33.33%;
+}
+
+.section4{
+    background-color: beige;
+    margin: 15px;
+    color: purple;
+    text-align: justify;
+    border-radius: 10px;
+    box-shadow: none;
+}
+
+.img4{
+    width: 128px;
+}
+
