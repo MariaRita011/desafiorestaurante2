@@ -13,3 +13,18 @@ h2 {
     color: purple;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+#section1 {
+    display: flex;
+}
+
+.sec1 {
+    margin: 10px;
+    background-color: white;
+    width: 30%;
+}
+
+.img1 {
+    width: 300px;
+    margin:20px;
+}
