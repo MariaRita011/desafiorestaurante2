@@ -21,10 +21,11 @@ label {
     padding: 1%;
 }
 
-button {
+#button {
     margin: auto;
-    width: 66%;
+    width: 55%;
     background-color: rgb(201, 115, 201);
+    margin-top: 20px;
 }
 
 #formulario {
