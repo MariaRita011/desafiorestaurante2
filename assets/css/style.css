@@ -3,13 +3,42 @@ body {
 
 }
 
+/*Texto Principal Página Inicial*/
 h1, h5 {
     color: purple;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+/*Promoçao Principal*/
 h2 {
     color: purple;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
+    margin-top: 10px;
+}
+
+div {
+    display: flex;
+}
+
+#fotopromoprincipal {
+    width: 30%;
+    margin: 15px;
+}
+
+#promoprincipal {
+background-color: white;
+border-radius: 10px;
+-webkit-box-shadow: 10px 10px 30px -10px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 30px -10px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 30px -10px rgba(0,0,0,0.75);
+margin: 15px;
+
+}
+
+#textopromoprincipal {
+    margin: 10px;
+    text-align: justify;
+    margin-top: 75px;
 }
