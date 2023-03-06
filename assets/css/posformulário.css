@@ -1,0 +1,53 @@
+.main{
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    background-color: beige;
+}
+
+.img{
+    border-radius: 50%;
+    margin-top: 30px;
+}
+
+h1{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 3%;
+                                                
+                                                 
+}
+
+.button{
+    border-style: none;
+    background-color: beige;
+  
+}
+
+.button:hover {
+background-color: plum;
+color: purple;
+border-radius: 10px;
+}
+
+a {
+    color: purple;
+    text-decoration: none;
+}
+
+iframe {
+    padding: 0;
+    margin: 0;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-bottom: -5px;
+}
+
+body {
+    margin: 0;
+}
