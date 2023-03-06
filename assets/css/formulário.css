@@ -1,12 +1,39 @@
 body {
     background-color: beige;
     text-align: center;
-    
 }
 
-div {
+div  {
+    margin: auto;
+}
+
+h2 {
+    color: purple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 1%;
+    font-size: 37px;
+}
+
+label {
+    color: purple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    padding: 1%;
+}
+
+button {
+    margin: auto;
+    width: 66%;
+    background-color: rgb(201, 115, 201);
 }
 
 #formulario {
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 66%;
+    padding: 4%;
+}
+
+div2 {
+    width: 60%;
 }
