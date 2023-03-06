@@ -3,12 +3,14 @@ body {
 
 }
 
+/*Texto Principal Página Inicial*/
 h1, h5 {
     color: purple;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+/*Promoçao Principal*/
 h2 {
     color: purple;
     font-family: Georgia, 'Times New Roman', Times, serif;
