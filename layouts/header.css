@@ -16,10 +16,15 @@ header {
     width: 100%;
     padding: 25px;
     position: fixed;
+    margin: 0;
+    padding: 0 ;
+    text-align: center;
 }
 
 nav li {
     margin: 0;
+    list-style: none;
+    text-align: center;
 }
 
 
@@ -30,7 +35,23 @@ nav a {
     text-transform:capitalize;
     text-align: center;
 
+}
 
+nav a:hover{
+    background-color: black;
+    border-radius: 10px;
+}
+
+nav{
+    text-align: center;
+}
+
+nav ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
 }
 
 .logo {
