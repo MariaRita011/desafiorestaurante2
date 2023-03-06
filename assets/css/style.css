@@ -14,6 +14,7 @@ h1, h5 {
 h2 {
     color: purple;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
 }
 
 div {
@@ -25,6 +26,7 @@ div {
 }
 
 #promoprincipal {
+background-color: white;
 
 }
 
