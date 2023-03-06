@@ -15,7 +15,8 @@ div {
     margin: 20px;
     color: rgb(0, 0, 0);
     display: flex;
-    border-radius: 10%;
+    border-radius: 10px;
+    width: 30%;
 }
 
 img {
@@ -47,4 +48,10 @@ img {
     /*img redonda*/
     border-radius: 100%;
 
+}
+
+article {
+    background-color: purple;
+    margin: 10px;
+    border-radius: 10px;
 }
