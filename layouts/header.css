@@ -38,7 +38,7 @@ nav a {
 }
 
 nav a:hover{
-    background-color:black;
+    background-color:rgb(119, 18, 152);
     border-radius: 10px;
 }
 
@@ -51,7 +51,7 @@ nav ul{
     padding: 0;
     display: flex;
     justify-content: center;
-    margin-top: 15px;
+    margin-top: 10px;
 }
 
 .logo {
