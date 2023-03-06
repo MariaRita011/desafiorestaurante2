@@ -4,4 +4,29 @@ body {
     padding: 0%;
 }
 
+div {
+    display: flex;
+    margin: 15px;
+    
+}
 
+.depoimentos {
+    background-color: white;
+    margin: 20px;
+    color: rgb(0, 0, 0);
+display: flex;
+border-radius: 10%;}
+
+img {
+    margin: auto;
+    width: 40%;
+    border-style: dashed;
+    border-color: rgb(207, 207, 163);
+    
+}
+
+#nene {
+    margin: auto ;
+    width: 20%;
+    border-radius: 100%;
+}
