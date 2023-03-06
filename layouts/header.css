@@ -1,15 +1,15 @@
-body{
+body {
     margin: 0;
     border: 0;
     font-family:Georgia, 'Times New Roman', Times, serif
     
 }
 
-.container{
+.container {
     justify-content: center;
 }
 
-header{
+header {
     background-color:purple;
     color: beige;
     height: 100%;
@@ -18,12 +18,21 @@ header{
     position: fixed;
 }
 
-nav li{
+nav li {
     margin: 0;
 }
 
 
-nav a{
+nav a {
+    color: beige;
+    text-decoration: none;
+    padding: 10px;
+    text-transform:capitalize;
+    text-align: center;
 
 
+}
+
+.logo {
+    text-align: center;
 }
