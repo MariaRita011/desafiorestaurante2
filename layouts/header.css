@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    border: 0;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    
+}
+
+.container {
+    justify-content: center;
+}
+
+header {
+    background-color:purple;
+    color: beige;
+    height: 100%;
+    width: 100%;
+    padding: 25px;
+    position: fixed;
+    margin: 0;
+    padding: 0 ;
+    text-align: center;
+}
+
+nav li {
+    margin: 0;
+    list-style: none;
+    text-align: center;
+}
+
+
+nav a {
+    color: beige;
+    text-decoration: none;
+    padding: 10px;
+    text-transform:capitalize;
+    text-align: center;
+
+}
+
+nav a:hover{
+    background-color:rgb(119, 18, 152);
+    border-radius: 10px;
+}
+
+nav{
+    text-align: center;
+}
+
+nav ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.logo {
+    text-align: center;
+}
