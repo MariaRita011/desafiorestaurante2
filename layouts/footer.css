@@ -3,6 +3,9 @@ body {
 }
 
 footer {
-  margin: 20%;
+  margin: 0%;
   background-color: purple;
+  position: fixed;
+  width: 100%;
+  color: beige;
 }
