@@ -1,0 +1,15 @@
+.main{
+align-items: center;
+background-image: url('../css/imagens/confeitariaimagem.png');
+background-repeat: no-repeat;
+background-size: 100%;
+text-align: center;
+}
+
+.img{
+    border-radius: 500%;
+}
+
+h1{
+    color: rgb(255, 167, 167);
+}
