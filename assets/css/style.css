@@ -17,6 +17,9 @@ div {
     display: flex;
     border-radius: 10px;
     width: 30%;
+    -webkit-box-shadow: 10px 10px 30px -10px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 30px -10px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 30px -10px rgba(0,0,0,0.75);
 }
 
 img {
@@ -52,6 +55,8 @@ img {
 
 article {
     background-color: purple;
+    /*margem fundo depoimentos*/
+
     margin: 10px;
     border-radius: 10px;
 }
