@@ -71,3 +71,113 @@ h1 {
     display: flex;
 }
 
+}
+
+/*Texto Principal Página Inicial*/
+h1, h5 {
+    color: purple;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/*Promoçao Principal*/
+h2 {
+    color: purple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#section1 {
+    display: flex;
+}
+
+.sec1 {
+    margin: 10px;
+    background-color: white;
+    width: 30%;
+}
+
+.img1 {
+    width: 300px;
+    margin:20px;
+    margin: 10px;
+    margin-top: 10px;
+}
+
+div {
+    display: flex;
+}
+
+#fotopromoprincipal {
+    width: 30%;
+    margin: 15px;
+}
+
+#promoprincipal {
+background-color: white;
+border-radius: 10px;
+-webkit-box-shadow: 10px 10px 30px -10px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 30px -10px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 30px -10px rgba(0,0,0,0.75);
+margin: 15px;
+
+}
+
+#textopromoprincipal {
+    margin: 10px;
+    text-align: justify;
+    margin-top: 75px;
+}
+
+h3,  p{
+   margin: 15px;
+
+}
+
+img{
+   width: 300px;
+   margin: auto;
+}
+
+.div_foto{
+    text-align: center;
+}
+
+section{
+
+
+.art4{
+    display: flex;
+}
+.img_4{
+    background-color: white;
+    max-width: 33.33%;
+}
+
+.section4{
+
+    background-color: beige;
+    margin: 15px;
+    color: purple;
+    text-align: justify;
+    border-radius: 10px;
+    box-shadow: none;
+}
+
+.img_3{
+background-color: white;
+max-width: 33.33%;
+}
+
+.art2{
+    display: flex;
+}
+
+img{
+    width: 128px;
+}
+
+}
+
+.img4{
+    width: 128px;
+}
