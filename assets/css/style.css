@@ -4,12 +4,65 @@ body {
     padding: 0%;
 }
 
-div {
+/*section1*/
+#section1 {
     display: flex;
-    margin: 15px;
-
 }
 
+.sec1 {
+    margin: 10px;
+    background-color: white;
+    width: 30%;
+    border-radius: 10px;
+}
+
+.img1 {
+    width: 300px;
+    margin-left: 20px;
+}
+
+h2 {
+    color: purple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
+}
+
+/*Section3*/ 
+#section3 {
+    display: flex;
+    
+}
+
+.sec3 {
+    margin: 10px;
+    background-color: white;
+    width: 30%;
+    border-radius: 10px;
+}
+
+.img3 {
+    width: 300px;
+    margin-left: 20px;
+}
+
+#section4 {
+    display: flex;
+}
+
+.sec4 {
+    margin: 10px;
+    background-color: white;
+    width: 30%;
+    border-radius: 10px;
+}
+
+.img4 {
+    width: 300px;
+    margin-left: 20px;
+}
+
+
+/*depoimentos*/
 .depoimentos {
     background-color: white;
     margin: 20px;
@@ -60,18 +113,21 @@ article {
 
     margin: 10px;
     border-radius: 10px;
+    -webkit-box-shadow: 10px 10px 30px -10px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 30px -10px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 30px -10px rgba(0,0,0,0.75);
+margin: 15px;
 }
+
+
+
 
 .textodepoimentos {
     margin: 5px;
     text-align: justify;
 }
 
-h1 {
-    display: flex;
-}
 
-}
 
 /*Texto Principal Página Inicial*/
 h1, h5 {
@@ -81,27 +137,6 @@ h1, h5 {
 }
 
 /*Promoçao Principal*/
-h2 {
-    color: purple;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
-#section1 {
-    display: flex;
-}
-
-.sec1 {
-    margin: 10px;
-    background-color: white;
-    width: 30%;
-}
-
-.img1 {
-    width: 300px;
-    margin:20px;
-    margin: 10px;
-    margin-top: 10px;
-}
 
 div {
     display: flex;
@@ -142,42 +177,10 @@ img{
     text-align: center;
 }
 
-section{
-
-
-.art4{
-    display: flex;
-}
-.img_4{
-    background-color: white;
-    max-width: 33.33%;
+#Textoprincipal {
+    text-align: center;
 }
 
-.section4{
-
-    background-color: beige;
-    margin: 15px;
-    color: purple;
-    text-align: justify;
-    border-radius: 10px;
-    box-shadow: none;
-}
-
-.img_3{
-background-color: white;
-max-width: 33.33%;
-}
-
-.art2{
-    display: flex;
-}
-
-img{
-    width: 128px;
-}
-
-}
-
-.img4{
-    width: 128px;
+#indexfooter {
+    margin-bottom: -5px;
 }
