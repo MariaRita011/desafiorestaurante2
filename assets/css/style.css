@@ -1,5 +1,75 @@
 body {
     background-color: beige;
+    margin: 0%;
+    padding: 0%;
+}
+
+div {
+    display: flex;
+    margin: 15px;
+
+}
+
+.depoimentos {
+    background-color: white;
+    margin: 20px;
+    color: rgb(0, 0, 0);
+    display: flex;
+    border-radius: 10px;
+    width: 30%;
+    /*box-shadow*/
+    -webkit-box-shadow: 10px 10px 30px -10px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 30px -10px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 30px -10px rgba(0,0,0,0.75);
+}
+
+img {
+    margin: auto;
+    width: 40%;
+    border-style: dashed;
+    border-color: rgb(207, 207, 163);
+
+}
+
+#nene {
+    margin: auto;
+    width: 20%;
+    /*img redonda*/
+    border-radius: 100%;
+}
+
+#enaldo {
+    margin: auto;
+    width: 20%;
+    /*img redonda*/
+    border-radius: 100%;
+
+}
+
+#caetaninho {
+    margin: auto;
+    width: 20%;
+    /*img redonda*/
+    border-radius: 100%;
+
+}
+
+article {
+    background-color: purple;
+    /*margem fundo depoimentos*/
+
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.textodepoimentos {
+    margin: 5px;
+    text-align: justify;
+}
+
+h1 {
+    display: flex;
+}
 
 }
 
@@ -91,8 +161,6 @@ section{
     text-align: justify;
     border-radius: 10px;
     box-shadow: none;
-
-
 }
 
 .img_3{
@@ -113,5 +181,3 @@ img{
 .img4{
     width: 128px;
 }
-
-
