@@ -20,6 +20,15 @@ div {
     display: flex;
 }
 
-img {
+#fotopromoprincipal {
     width: 30%;
+}
+
+#promoprincipal {
+
+}
+
+#textopromoprincipal {
+    margin: 10px;
+    text-align: justify;
 }
