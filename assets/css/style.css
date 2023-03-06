@@ -15,6 +15,7 @@ h2 {
     color: purple;
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 10px;
+    margin-top: 10px;
 }
 
 div {
@@ -23,6 +24,7 @@ div {
 
 #fotopromoprincipal {
     width: 30%;
+    margin: 15px;
 }
 
 #promoprincipal {
@@ -33,4 +35,5 @@ background-color: white;
 #textopromoprincipal {
     margin: 10px;
     text-align: justify;
+    margin-top: 75px;
 }
