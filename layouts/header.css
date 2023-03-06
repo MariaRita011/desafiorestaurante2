@@ -5,6 +5,16 @@ body{
     
 }
 
-div{
-
+.container{
+    justify-content: center;
 }
+
+header{
+    background-color:purple;
+    color: beige;
+    height: 100%;
+    width: 100%;
+    padding: 25px;
+    position: fixed;
+}
+
